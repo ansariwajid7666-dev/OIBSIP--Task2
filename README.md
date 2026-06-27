@@ -19,20 +19,19 @@ This project performs Exploratory Data Analysis (EDA) on the Google Play Store d
 
 ### 2. Data Visualization
 - **Top 10 App Categories** - Horizontal Bar Chart
-![Top Categories](categories screenshort1.png)
+![Top Categories](categories.png)
 
 - **Free vs Paid Apps Distribution** - Pie Chart  
-![Free vs Paid](categories screenshort2.png)
+![Free vs Paid](free_vs_paid.png)
 
 - **App Rating Distribution** - Histogram with KDE
-![Rating Distribution](categories screenshort3.png)
+![Rating Distribution](ratings.png)
 
 - **Reviews vs Installs Correlation** - Scatter Plot with Log Scale
-![Reviews vs Installs](categories screenshort4.png)
+![Reviews vs Installs](reviews_installs.png)
 
 - **Price Distribution of Paid Apps** - Box Plot
-![Price Boxplot](categories screenshort5.png)
-
+![Price Boxplot](price.png)
 
 ## 💡 Key Insights
 1. **FAMILY** and **GAME** are the most popular app categories with 3000+ apps combined
